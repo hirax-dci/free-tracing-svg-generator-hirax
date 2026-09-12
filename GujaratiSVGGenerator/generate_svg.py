@@ -3,6 +3,7 @@
     python generate_svg.py                 # vowels + consonants + conjuncts
     python generate_svg.py --barakhadi     # ...plus every consonant x matra
     python generate_svg.py --clean         # wipe output/ first
+    python generate_svg.py --only હ ka     # just these characters (text or label)
 """
 
 import argparse
@@ -57,6 +58,9 @@ def parse_args(argv=None):
                         default=config.MATRA_SCALE_CAP,
                         help="how far a small bare mark may be magnified past its "
                              "true proportion (1.0 = strict proportion)")
+    parser.add_argument("--only", nargs="+", metavar="CHAR",
+                        help="generate only these characters, given as the text "
+                             "(હ) or the manifest label (ha)")
     parser.add_argument("--quiet", action="store_true", help="only print the summary")
     return parser.parse_args(argv)
 
@@ -107,6 +111,13 @@ def main(argv=None):
 
         todo = characters.all_characters(include_barakhadi=args.barakhadi,
                                          matra_style=args.matra_style)
+        if args.only:
+            wanted = set(args.only)
+            todo = [c for c in todo if c.text in wanted or c.label in wanted]
+            if not todo:
+                print(f"error: none of {args.only} match a known character",
+                      file=sys.stderr)
+                return 2
         matra_scales = plan_matra_scales(exporter, todo, args.matra_scale_cap)
 
         failures = []
