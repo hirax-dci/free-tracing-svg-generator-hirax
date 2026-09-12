@@ -1,0 +1,647 @@
+{
+  "version": 1,
+  "generated": "2026-08-05T11:40:52+00:00",
+  "font": "NotoSansGujarati-Regular.ttf",
+  "canvas": {
+    "width": 512,
+    "height": 512,
+    "padding": 40,
+    "fitMode": "fit"
+  },
+  "fill": "currentColor",
+  "total": 78,
+  "counts": {
+    "vowel": 13,
+    "consonant": 34,
+    "combined": 2,
+    "special": 7,
+    "matra": 11,
+    "matra_circle": 11
+  },
+  "characters": [
+    {
+      "character": "અ",
+      "unicode": "U+0A85",
+      "label": "a",
+      "category": "vowel",
+      "file": "u0A85.svg",
+      "path": "vowels/u0A85.svg"
+    },
+    {
+      "character": "આ",
+      "unicode": "U+0A86",
+      "label": "aa",
+      "category": "vowel",
+      "file": "u0A86.svg",
+      "path": "vowels/u0A86.svg"
+    },
+    {
+      "character": "ઇ",
+      "unicode": "U+0A87",
+      "label": "i",
+      "category": "vowel",
+      "file": "u0A87.svg",
+      "path": "vowels/u0A87.svg"
+    },
+    {
+      "character": "ઈ",
+      "unicode": "U+0A88",
+      "label": "ii",
+      "category": "vowel",
+      "file": "u0A88.svg",
+      "path": "vowels/u0A88.svg"
+    },
+    {
+      "character": "ઉ",
+      "unicode": "U+0A89",
+      "label": "u",
+      "category": "vowel",
+      "file": "u0A89.svg",
+      "path": "vowels/u0A89.svg"
+    },
+    {
+      "character": "ઊ",
+      "unicode": "U+0A8A",
+      "label": "uu",
+      "category": "vowel",
+      "file": "u0A8A.svg",
+      "path": "vowels/u0A8A.svg"
+    },
+    {
+      "character": "ઋ",
+      "unicode": "U+0A8B",
+      "label": "ru",
+      "category": "vowel",
+      "file": "u0A8B.svg",
+      "path": "vowels/u0A8B.svg"
+    },
+    {
+      "character": "એ",
+      "unicode": "U+0A8F",
+      "label": "e",
+      "category": "vowel",
+      "file": "u0A8F.svg",
+      "path": "vowels/u0A8F.svg"
+    },
+    {
+      "character": "ઐ",
+      "unicode": "U+0A90",
+      "label": "ai",
+      "category": "vowel",
+      "file": "u0A90.svg",
+      "path": "vowels/u0A90.svg"
+    },
+    {
+      "character": "ઓ",
+      "unicode": "U+0A93",
+      "label": "o",
+      "category": "vowel",
+      "file": "u0A93.svg",
+      "path": "vowels/u0A93.svg"
+    },
+    {
+      "character": "ઔ",
+      "unicode": "U+0A94",
+      "label": "au",
+      "category": "vowel",
+      "file": "u0A94.svg",
+      "path": "vowels/u0A94.svg"
+    },
+    {
+      "character": "અં",
+      "unicode": "U+0A85 U+0A82",
+      "label": "am",
+      "category": "vowel",
+      "file": "u0A85_u0A82.svg",
+      "path": "vowels/u0A85_u0A82.svg"
+    },
+    {
+      "character": "અઃ",
+      "unicode": "U+0A85 U+0A83",
+      "label": "ah",
+      "category": "vowel",
+      "file": "u0A85_u0A83.svg",
+      "path": "vowels/u0A85_u0A83.svg"
+    },
+    {
+      "character": "ક",
+      "unicode": "U+0A95",
+      "label": "ka",
+      "category": "consonant",
+      "file": "u0A95.svg",
+      "path": "consonants/u0A95.svg"
+    },
+    {
+      "character": "ખ",
+      "unicode": "U+0A96",
+      "label": "kha",
+      "category": "consonant",
+      "file": "u0A96.svg",
+      "path": "consonants/u0A96.svg"
+    },
+    {
+      "character": "ગ",
+      "unicode": "U+0A97",
+      "label": "ga",
+      "category": "consonant",
+      "file": "u0A97.svg",
+      "path": "consonants/u0A97.svg"
+    },
+    {
+      "character": "ઘ",
+      "unicode": "U+0A98",
+      "label": "gha",
+      "category": "consonant",
+      "file": "u0A98.svg",
+      "path": "consonants/u0A98.svg"
+    },
+    {
+      "character": "ઙ",
+      "unicode": "U+0A99",
+      "label": "nga",
+      "category": "consonant",
+      "file": "u0A99.svg",
+      "path": "consonants/u0A99.svg"
+    },
+    {
+      "character": "ચ",
+      "unicode": "U+0A9A",
+      "label": "cha",
+      "category": "consonant",
+      "file": "u0A9A.svg",
+      "path": "consonants/u0A9A.svg"
+    },
+    {
+      "character": "છ",
+      "unicode": "U+0A9B",
+      "label": "chha",
+      "category": "consonant",
+      "file": "u0A9B.svg",
+      "path": "consonants/u0A9B.svg"
+    },
+    {
+      "character": "જ",
+      "unicode": "U+0A9C",
+      "label": "ja",
+      "category": "consonant",
+      "file": "u0A9C.svg",
+      "path": "consonants/u0A9C.svg"
+    },
+    {
+      "character": "ઝ",
+      "unicode": "U+0A9D",
+      "label": "jha",
+      "category": "consonant",
+      "file": "u0A9D.svg",
+      "path": "consonants/u0A9D.svg"
+    },
+    {
+      "character": "ઞ",
+      "unicode": "U+0A9E",
+      "label": "nya",
+      "category": "consonant",
+      "file": "u0A9E.svg",
+      "path": "consonants/u0A9E.svg"
+    },
+    {
+      "character": "ટ",
+      "unicode": "U+0A9F",
+      "label": "Ta",
+      "category": "consonant",
+      "file": "u0A9F.svg",
+      "path": "consonants/u0A9F.svg"
+    },
+    {
+      "character": "ઠ",
+      "unicode": "U+0AA0",
+      "label": "Tha",
+      "category": "consonant",
+      "file": "u0AA0.svg",
+      "path": "consonants/u0AA0.svg"
+    },
+    {
+      "character": "ડ",
+      "unicode": "U+0AA1",
+      "label": "Da",
+      "category": "consonant",
+      "file": "u0AA1.svg",
+      "path": "consonants/u0AA1.svg"
+    },
+    {
+      "character": "ઢ",
+      "unicode": "U+0AA2",
+      "label": "Dha",
+      "category": "consonant",
+      "file": "u0AA2.svg",
+      "path": "consonants/u0AA2.svg"
+    },
+    {
+      "character": "ણ",
+      "unicode": "U+0AA3",
+      "label": "Na",
+      "category": "consonant",
+      "file": "u0AA3.svg",
+      "path": "consonants/u0AA3.svg"
+    },
+    {
+      "character": "ત",
+      "unicode": "U+0AA4",
+      "label": "ta",
+      "category": "consonant",
+      "file": "u0AA4.svg",
+      "path": "consonants/u0AA4.svg"
+    },
+    {
+      "character": "થ",
+      "unicode": "U+0AA5",
+      "label": "tha",
+      "category": "consonant",
+      "file": "u0AA5.svg",
+      "path": "consonants/u0AA5.svg"
+    },
+    {
+      "character": "દ",
+      "unicode": "U+0AA6",
+      "label": "da",
+      "category": "consonant",
+      "file": "u0AA6.svg",
+      "path": "consonants/u0AA6.svg"
+    },
+    {
+      "character": "ધ",
+      "unicode": "U+0AA7",
+      "label": "dha",
+      "category": "consonant",
+      "file": "u0AA7.svg",
+      "path": "consonants/u0AA7.svg"
+    },
+    {
+      "character": "ન",
+      "unicode": "U+0AA8",
+      "label": "na",
+      "category": "consonant",
+      "file": "u0AA8.svg",
+      "path": "consonants/u0AA8.svg"
+    },
+    {
+      "character": "પ",
+      "unicode": "U+0AAA",
+      "label": "pa",
+      "category": "consonant",
+      "file": "u0AAA.svg",
+      "path": "consonants/u0AAA.svg"
+    },
+    {
+      "character": "ફ",
+      "unicode": "U+0AAB",
+      "label": "pha",
+      "category": "consonant",
+      "file": "u0AAB.svg",
+      "path": "consonants/u0AAB.svg"
+    },
+    {
+      "character": "બ",
+      "unicode": "U+0AAC",
+      "label": "ba",
+      "category": "consonant",
+      "file": "u0AAC.svg",
+      "path": "consonants/u0AAC.svg"
+    },
+    {
+      "character": "ભ",
+      "unicode": "U+0AAD",
+      "label": "bha",
+      "category": "consonant",
+      "file": "u0AAD.svg",
+      "path": "consonants/u0AAD.svg"
+    },
+    {
+      "character": "મ",
+      "unicode": "U+0AAE",
+      "label": "ma",
+      "category": "consonant",
+      "file": "u0AAE.svg",
+      "path": "consonants/u0AAE.svg"
+    },
+    {
+      "character": "ય",
+      "unicode": "U+0AAF",
+      "label": "ya",
+      "category": "consonant",
+      "file": "u0AAF.svg",
+      "path": "consonants/u0AAF.svg"
+    },
+    {
+      "character": "ર",
+      "unicode": "U+0AB0",
+      "label": "ra",
+      "category": "consonant",
+      "file": "u0AB0.svg",
+      "path": "consonants/u0AB0.svg"
+    },
+    {
+      "character": "લ",
+      "unicode": "U+0AB2",
+      "label": "la",
+      "category": "consonant",
+      "file": "u0AB2.svg",
+      "path": "consonants/u0AB2.svg"
+    },
+    {
+      "character": "વ",
+      "unicode": "U+0AB5",
+      "label": "va",
+      "category": "consonant",
+      "file": "u0AB5.svg",
+      "path": "consonants/u0AB5.svg"
+    },
+    {
+      "character": "શ",
+      "unicode": "U+0AB6",
+      "label": "sha",
+      "category": "consonant",
+      "file": "u0AB6.svg",
+      "path": "consonants/u0AB6.svg"
+    },
+    {
+      "character": "ષ",
+      "unicode": "U+0AB7",
+      "label": "Sha",
+      "category": "consonant",
+      "file": "u0AB7.svg",
+      "path": "consonants/u0AB7.svg"
+    },
+    {
+      "character": "સ",
+      "unicode": "U+0AB8",
+      "label": "sa",
+      "category": "consonant",
+      "file": "u0AB8.svg",
+      "path": "consonants/u0AB8.svg"
+    },
+    {
+      "character": "હ",
+      "unicode": "U+0AB9",
+      "label": "ha",
+      "category": "consonant",
+      "file": "u0AB9.svg",
+      "path": "consonants/u0AB9.svg"
+    },
+    {
+      "character": "ળ",
+      "unicode": "U+0AB3",
+      "label": "La",
+      "category": "consonant",
+      "file": "u0AB3.svg",
+      "path": "consonants/u0AB3.svg"
+    },
+    {
+      "character": "ક્ષ",
+      "unicode": "U+0A95 U+0ACD U+0AB7",
+      "label": "ksha",
+      "category": "combined",
+      "file": "u0A95_u0ACD_u0AB7.svg",
+      "path": "combined/u0A95_u0ACD_u0AB7.svg"
+    },
+    {
+      "character": "જ્ઞ",
+      "unicode": "U+0A9C U+0ACD U+0A9E",
+      "label": "gnya",
+      "category": "combined",
+      "file": "u0A9C_u0ACD_u0A9E.svg",
+      "path": "combined/u0A9C_u0ACD_u0A9E.svg"
+    },
+    {
+      "character": "પૃ",
+      "unicode": "U+0AAA U+0AC3",
+      "label": "pru",
+      "category": "special",
+      "file": "u0AAA_u0AC3.svg",
+      "path": "special/u0AAA_u0AC3.svg"
+    },
+    {
+      "character": "ર્વ",
+      "unicode": "U+0AB0 U+0ACD U+0AB5",
+      "label": "rva",
+      "category": "special",
+      "file": "u0AB0_u0ACD_u0AB5.svg",
+      "path": "special/u0AB0_u0ACD_u0AB5.svg"
+    },
+    {
+      "character": "પ્ર",
+      "unicode": "U+0AAA U+0ACD U+0AB0",
+      "label": "pra",
+      "category": "special",
+      "file": "u0AAA_u0ACD_u0AB0.svg",
+      "path": "special/u0AAA_u0ACD_u0AB0.svg"
+    },
+    {
+      "character": "ક્ર",
+      "unicode": "U+0A95 U+0ACD U+0AB0",
+      "label": "kra",
+      "category": "special",
+      "file": "u0A95_u0ACD_u0AB0.svg",
+      "path": "special/u0A95_u0ACD_u0AB0.svg"
+    },
+    {
+      "character": "શ્ર",
+      "unicode": "U+0AB6 U+0ACD U+0AB0",
+      "label": "shra",
+      "category": "special",
+      "file": "u0AB6_u0ACD_u0AB0.svg",
+      "path": "special/u0AB6_u0ACD_u0AB0.svg"
+    },
+    {
+      "character": "ત્ર",
+      "unicode": "U+0AA4 U+0ACD U+0AB0",
+      "label": "tra",
+      "category": "special",
+      "file": "u0AA4_u0ACD_u0AB0.svg",
+      "path": "special/u0AA4_u0ACD_u0AB0.svg"
+    },
+    {
+      "character": "રૂ",
+      "unicode": "U+0AB0 U+0AC2",
+      "label": "ruu",
+      "category": "special",
+      "file": "u0AB0_u0AC2.svg",
+      "path": "special/u0AB0_u0AC2.svg"
+    },
+    {
+      "character": "ા",
+      "unicode": "U+0ABE",
+      "label": "aa",
+      "category": "matra",
+      "file": "u0ABE.svg",
+      "path": "matras/u0ABE.svg"
+    },
+    {
+      "character": "િ",
+      "unicode": "U+0ABF",
+      "label": "i",
+      "category": "matra",
+      "file": "u0ABF.svg",
+      "path": "matras/u0ABF.svg"
+    },
+    {
+      "character": "ી",
+      "unicode": "U+0AC0",
+      "label": "ii",
+      "category": "matra",
+      "file": "u0AC0.svg",
+      "path": "matras/u0AC0.svg"
+    },
+    {
+      "character": "ુ",
+      "unicode": "U+0AC1",
+      "label": "u",
+      "category": "matra",
+      "file": "u0AC1.svg",
+      "path": "matras/u0AC1.svg"
+    },
+    {
+      "character": "ૂ",
+      "unicode": "U+0AC2",
+      "label": "uu",
+      "category": "matra",
+      "file": "u0AC2.svg",
+      "path": "matras/u0AC2.svg"
+    },
+    {
+      "character": "ે",
+      "unicode": "U+0AC7",
+      "label": "e",
+      "category": "matra",
+      "file": "u0AC7.svg",
+      "path": "matras/u0AC7.svg"
+    },
+    {
+      "character": "ૈ",
+      "unicode": "U+0AC8",
+      "label": "ai",
+      "category": "matra",
+      "file": "u0AC8.svg",
+      "path": "matras/u0AC8.svg"
+    },
+    {
+      "character": "ો",
+      "unicode": "U+0ACB",
+      "label": "o",
+      "category": "matra",
+      "file": "u0ACB.svg",
+      "path": "matras/u0ACB.svg"
+    },
+    {
+      "character": "ૌ",
+      "unicode": "U+0ACC",
+      "label": "au",
+      "category": "matra",
+      "file": "u0ACC.svg",
+      "path": "matras/u0ACC.svg"
+    },
+    {
+      "character": "ં",
+      "unicode": "U+0A82",
+      "label": "am",
+      "category": "matra",
+      "file": "u0A82.svg",
+      "path": "matras/u0A82.svg"
+    },
+    {
+      "character": "ઃ",
+      "unicode": "U+0A83",
+      "label": "ah",
+      "category": "matra",
+      "file": "u0A83.svg",
+      "path": "matras/u0A83.svg"
+    },
+    {
+      "character": "ા",
+      "unicode": "U+0ABE",
+      "label": "aa",
+      "category": "matra_circle",
+      "file": "u0ABE.svg",
+      "path": "matras_circle/u0ABE.svg"
+    },
+    {
+      "character": "િ",
+      "unicode": "U+0ABF",
+      "label": "i",
+      "category": "matra_circle",
+      "file": "u0ABF.svg",
+      "path": "matras_circle/u0ABF.svg"
+    },
+    {
+      "character": "ી",
+      "unicode": "U+0AC0",
+      "label": "ii",
+      "category": "matra_circle",
+      "file": "u0AC0.svg",
+      "path": "matras_circle/u0AC0.svg"
+    },
+    {
+      "character": "ુ",
+      "unicode": "U+0AC1",
+      "label": "u",
+      "category": "matra_circle",
+      "file": "u0AC1.svg",
+      "path": "matras_circle/u0AC1.svg"
+    },
+    {
+      "character": "ૂ",
+      "unicode": "U+0AC2",
+      "label": "uu",
+      "category": "matra_circle",
+      "file": "u0AC2.svg",
+      "path": "matras_circle/u0AC2.svg"
+    },
+    {
+      "character": "ે",
+      "unicode": "U+0AC7",
+      "label": "e",
+      "category": "matra_circle",
+      "file": "u0AC7.svg",
+      "path": "matras_circle/u0AC7.svg"
+    },
+    {
+      "character": "ૈ",
+      "unicode": "U+0AC8",
+      "label": "ai",
+      "category": "matra_circle",
+      "file": "u0AC8.svg",
+      "path": "matras_circle/u0AC8.svg"
+    },
+    {
+      "character": "ો",
+      "unicode": "U+0ACB",
+      "label": "o",
+      "category": "matra_circle",
+      "file": "u0ACB.svg",
+      "path": "matras_circle/u0ACB.svg"
+    },
+    {
+      "character": "ૌ",
+      "unicode": "U+0ACC",
+      "label": "au",
+      "category": "matra_circle",
+      "file": "u0ACC.svg",
+      "path": "matras_circle/u0ACC.svg"
+    },
+    {
+      "character": "ં",
+      "unicode": "U+0A82",
+      "label": "am",
+      "category": "matra_circle",
+      "file": "u0A82.svg",
+      "path": "matras_circle/u0A82.svg"
+    },
+    {
+      "character": "ઃ",
+      "unicode": "U+0A83",
+      "label": "ah",
+      "category": "matra_circle",
+      "file": "u0A83.svg",
+      "path": "matras_circle/u0A83.svg"
+    }
+  ]
+}

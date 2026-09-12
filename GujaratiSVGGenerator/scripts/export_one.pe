@@ -1,0 +1,7 @@
+Open($1)
+
+SelectWorthOutputting()
+
+foreach
+    Print($glyphname)
+endloop
